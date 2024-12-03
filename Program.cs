@@ -2,5 +2,5 @@
 
 Console.WriteLine("Hello, Advent of Code 2024!");
 
-var puzzle = new Day02();
+var puzzle = new Day03();
 puzzle.Run();
